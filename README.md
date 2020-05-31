@@ -1,6 +1,6 @@
 # Minivan SpaceCut
 
-![Minivan Space Cut](img/MiniVan_SpaceCut.jpg)
+![Minivan Space Cut](img/Minivan_SpaceCut.jpg)
 
 Simple Minivan case with a cutout for reversed spacebars.  I've included two sets of stl files:  
 
